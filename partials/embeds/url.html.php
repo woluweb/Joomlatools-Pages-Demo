@@ -1,0 +1,1 @@
+<a class="btn btn-primary" href="<?= $url ?>">url transformed into a button via a Partial in embeds folder</a>
